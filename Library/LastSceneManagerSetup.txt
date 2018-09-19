@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Joystick/JoystickTest.unity
+  isLoaded: 1
+  isActive: 1
